@@ -1,0 +1,3 @@
+dataset_initial里面存放的是未裁剪的图像，训练的存放在train文件夹下，测试的存放在val文件夹下
+data_fea是省赛所用裁剪代码得到的裁剪数据集
+data_fea_new是国赛所用裁剪代码得到的裁剪数据集

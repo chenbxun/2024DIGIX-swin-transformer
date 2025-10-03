@@ -1,0 +1,1 @@
+checkpoint = torch.load('./pretrained/swin_tiny_patch4_window7_224.pth')
